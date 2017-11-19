@@ -1,0 +1,22 @@
+{
+  "name": "nnai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriang71/NNAI.git"
+  },
+  "author": "Adrian Gunia <adriangunia@gmail.com> (http://www.a-gunia.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriang71/NNAI/issues"
+  },
+  "homepage": "https://github.com/Adriang71/NNAI#readme",
+  "dependencies": {
+    "brain.js": "1.0.0-rc.3"
+  }
+}
